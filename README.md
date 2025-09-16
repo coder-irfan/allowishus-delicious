@@ -1,6 +1,6 @@
 # ☕️ Allowishus Delicious – Landing Page Clone
 
-Live site 👉 [https://mohammad-irfan-noorzada.github.io/allowishus-delicious/](https://mohammad-irfan-noorzada.github.io/allowishus-delicious/)
+Live site 👉 [https://coder-irfan.github.io/allowishus-delicious/](https://coder-irfan.github.io/allowishus-delicious/)
 
 ---
 
